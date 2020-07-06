@@ -1,0 +1,11 @@
+#content .recipe_today a {
+    width: 140px;
+    height: 140px;
+    margin-right: 25px;
+}
+
+#content .recipe_today div {
+    width: 600px;
+    float: left;
+}
+
